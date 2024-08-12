@@ -111,7 +111,8 @@ Below are some visualizations of the model's performance:
 
  - If running this on Google Colab, it’s recommended to change the runtime to GPU for faster processing.
  - Navigate to Runtime -> Change runtime type and select GPU under Hardware accelerator.
- - Images and Videos are given in ""
+ - Images and Videos are given in [images and videos](https://drive.google.com/drive/folders/1tYeF5XuI3oUtx8FPSVdw0bywM8p0NcHA?usp=sharing)
+ - Find the required weights *best.pt*, *last.pt*, *yolov8m.py* in [weights](https://drive.google.com/drive/folders/1dJXYuj2NePk7sxry7UvGel7-YVtnxN33?usp=sharing)
 
 ## Reference
 - Dataset: [Roboflow EEP Detect Dataset](https://universe.roboflow.com/eepdatasets-fe5sq/eep_detect/dataset/11)
